@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\UnitTestProject2.dll
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\UnitTestProject2.pdb
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\obj\Release\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\obj\Release\UnitTestProject2.dll
+D:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\obj\Release\UnitTestProject2.pdb
+d:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\ConsoleApplication2.exe
+d:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\nunit.framework.dll
+d:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\ConsoleApplication2.pdb
+d:\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication2\UnitTestProject2\bin\Release\nunit.framework.xml
